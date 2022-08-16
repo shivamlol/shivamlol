@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shivamchaurasia2912@gmail.com**
 
-- ⚡ Fun fact **The Firefox logo isn’t a fox…**
+- ⚡ Fun fact **Google was misspelled....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
