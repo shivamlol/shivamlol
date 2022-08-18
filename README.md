@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shivamchaurasia2912@gmail.com**
 
-- ⚡ Fun fact **Google was misspelled....**
+- ⚡ Fun fact **Google was misspelled......**
 
 
 
