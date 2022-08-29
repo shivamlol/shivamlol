@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivamkumar Chaurasia</h1>
 <h3 align="center">A passionate competitive programmer and Android developer from india.</h3>
 
+
+![](https://komarev.com/ghpvc/?username=shivamlol)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamlol" alt="shivamlol" /></a> </p>
 
 - 🔭 I’m currently working on **Number Guessing Game**
