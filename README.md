@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamlol" alt="shivamlol" /></a> </p>
 
-- 🔭 I’m currently working on **Number Guessing Game**
+- 🔭 I’m currently working on **Medicine Scanning System**
 
 - 🌱 I’m currently learning **Android development**
 
