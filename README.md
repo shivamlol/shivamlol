@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivamkumar Chaurasia</h1>
-<h3 align="center">A passionate competitive programmer and Android developer from india.</h3>
+<h3 align="center">A passionate competitive programmer and Developer from india.</h3>
 
 
 ![](https://komarev.com/ghpvc/?username=shivamlol)
