@@ -24,7 +24,9 @@
 <a href = "https://leetcode.com/shivamchaurasia2912/">LEETCODE</a>
 <a href = "https://codeforces.com/profile/-214748364">CODEFORCES</a>
 <a href = "https://www.codechef.com/users/zeaflex123">CODECHEF</a>
-
+<a href = "https://www.codingninjas.com/studio/profile/ZeaFlex">CODING NINJA</a>
+<a href = "https://icpc.global/ICPCID/1EZ04JBWEQN2">ICPC</a>
+<a href = "https://my.newtonschool.co/user/shivamchaurasia2912">Newton School</a>
 
 
 
